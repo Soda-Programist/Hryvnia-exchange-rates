@@ -6,6 +6,6 @@
 
 Та може експортувати інформацію з бази данних утвореної за допомогою парсингу сторінки сайту національного банку України
 
-![image](https://github.com/Soda-Programist/Hryvnia-exchange-rates/assets/83551970/3508e570-4e23-4e7c-8c60-394cb84577fb)
+![image](https://github.com/Soda-Programist/Hryvnia-exchange-rates/assets/83551970/90ee4016-50c5-4218-99a1-fbbe9ef0d462)
 
 Була використана база данних PostgreSQL 16
