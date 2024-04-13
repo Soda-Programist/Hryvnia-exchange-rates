@@ -19,7 +19,6 @@ public class HryvniaExchangeItem {
     }
 
     @Id
-    @GeneratedValue
     @Column(name = "id")
     public int ID;
     @Column(name = "digitalCode")
